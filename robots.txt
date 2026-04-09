@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://dream-debugger-dev.github.io/On-Time-Home-Cleaning-Service/sitemap.xml
